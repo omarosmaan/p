@@ -90,7 +90,7 @@ margin: 15px 0 25px 0;
 position: relative;
 height: 40px;
 width: 40px;
-margin: 0 5px;
+margin: 0 2px;
 display: inline-flex;
 text-decoration: none;
 border-radius: 50%;
@@ -127,20 +127,23 @@ font-size: 20px;
 line-height: 35px;
 }
 .social-icons a:nth-last-child(1) i{
-color: #13d151;
+color: #007bb6;
 }
 .social-icons a:nth-last-child(2) i{
-color: #1da9e9;
+color: #1aef0a;
 }
 .social-icons a:nth-last-child(3) i{
-color: black;
+color: #1896d0;
 }
 .social-icons a:nth-last-child(4) i{
-color: #ff0000;
+color: #000000;
 }
 .social-icons a:nth-last-child(5) i{
-    color: #1500ff;
+    color: #f8003ef8;
     }
+    .social-icons a:nth-last-child(6) i{
+        color: #2600ff;
+        }
 
 .wrapper .buttons{
 display: flex;
