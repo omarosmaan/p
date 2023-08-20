@@ -39,7 +39,7 @@ background-color: rgba(255, 255, 255, 0.064);
 border-radius: 10px;
 backdrop-filter: blur(10px);
 border: 2px solid rgba(19, 46, 218, 0.1);
-box-shadow: 0 0 40px rgba(10, 2, 255, 0.658);
+box-shadow: 0 0 40px #1d799e;
 }
 
 .wrapper{
@@ -139,7 +139,7 @@ color: #1896d0;
 color: #000000;
 }
 .social-icons a:nth-last-child(5) i{
-    color: #f8003ef8;
+    color: #1d799e;
     }
     .social-icons a:nth-last-child(6) i{
         color: #2600ff;
